@@ -7,7 +7,7 @@ categories: 读书笔记
 本文参与「[少数派读书笔记征文活动](https://sspai.com/post/45653)」。
 
 <!-- 封面 -->
-![《学习之道》思维导图](/images/xue-xi-zhi-dao/xue-xi-zhi-dao-mindmap.png)
+![《学习之道》思维导图]({{ site.baseurl }}/images/xue-xi-zhi-dao/xue-xi-zhi-dao-mindmap.png)
 
 <!-- TOC -->
 
@@ -39,7 +39,7 @@ categories: 读书笔记
 
 对了，这本书原版英文名叫 A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)，偏数理一点。中文改成“学习之道”也行吧，毕竟，学好数理化，走遍天下都不怕，[手动狗头]。
 
-![学习之道](/images/xue-xi-zhi-dao/xue-xi-zhi-dao.jpg){:width="360px"}
+![学习之道]({{ site.baseurl }}/images/xue-xi-zhi-dao/xue-xi-zhi-dao.jpg){:width="360px"}
 
 ## 理念篇
 
@@ -120,7 +120,7 @@ categories: 读书笔记
 
 斯科特·杨进一步发展了这个理念，称之为 **费曼技巧**，把自己想象成一个老师，在向学生讲述一个概念或者演算一道习题。一方面，理解和解释相辅相成，促进思考，发现问题，理清问题；另一方面，教别人对自己记忆也会有帮助，有一个学习留存率的图，称为学习金字塔，虽然我也觉得这些数字有点随意[^1]～
 
-![学习金字塔](/images/xue-xi-zhi-dao/xue-xi-jin-zi-ta.jpg)
+![学习金字塔]({{ site.baseurl }}/images/xue-xi-zhi-dao/xue-xi-jin-zi-ta.jpg)
 
 ### 跟拖延症较劲
 
@@ -128,7 +128,7 @@ categories: 读书笔记
 
 拖延通常源自两方面：一是外界的干扰和诱惑，控制不住；二是任务的难度和繁重，无从下手。总之，就是不怎么喜欢的事，激活了大脑中的痛觉中枢。而拖延就像一个小恶魔，自觉不自觉地把我们从“不开心”中解救出来，引向短暂的“开心”。
 
-![典型的拖延症状](/images/xue-xi-zhi-dao/tuo-yan-zheng-zhuang.jpg)
+![典型的拖延症状]({{ site.baseurl }}/images/xue-xi-zhi-dao/tuo-yan-zheng-zhuang.jpg)
 
 关于第一点，减少干扰，无视干扰，直面痛苦，延迟满足。
 

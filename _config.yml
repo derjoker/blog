@@ -17,7 +17,7 @@ title: Blog
 email: fengya09@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   乔客叔叔的部落格
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: fengya04
 github_username:  derjoker
@@ -27,8 +27,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-permalink: /blog/:categories/:year/:month/:day/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
