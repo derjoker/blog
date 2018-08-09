@@ -201,6 +201,6 @@ categories: 读书笔记
 ### 网站
 
 * [BrainFacts](http://www.brainfacts.org/)
-* [Explain Like I'm Five | Don't Panic!](https://www.reddit.com/r/explainlikeimfive/)
+* [Explain Like I'm Five \| Don't Panic!](https://www.reddit.com/r/explainlikeimfive/)
 
 [^1]: [People remember 10%, 20%…Oh Really? – Work-Learning Research](https://www.worklearning.com/2006/05/01/people_remember/)
