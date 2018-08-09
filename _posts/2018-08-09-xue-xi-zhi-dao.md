@@ -39,7 +39,7 @@ categories: 读书笔记
 
 对了，这本书原版英文名叫 A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)，偏数理一点。中文改成“学习之道”也行吧，毕竟，学好数理化，走遍天下都不怕，[手动狗头]。
 
-![学习之道](/images/xue-xi-zhi-dao/xue-xi-zhi-dao.jpg)
+![学习之道](/images/xue-xi-zhi-dao/xue-xi-zhi-dao.jpg){:width="360px"}
 
 ## 理念篇
 
